@@ -1,2 +1,2 @@
-<h1>Civil Steward</h1>
+# Civil Steward
 <i>A Data Governance Blog</i>
