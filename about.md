@@ -8,13 +8,16 @@
   
   
   *What if that leadership is not receptive to education? If your position lacks authority to reverse the flow of instruction? If you are 
-  hired as the only steward for a multinational corporation and told "make it right" with limited resources?*<br></br>
+  hired as the only steward for a multinational corporation and told "make it right" with limited resources?*
+  
   
   Answers to these questions are complex, but soluable into component pieces. Tackling each "soft" need is arduous to contain within a 
   single publication, especially when the goal is not to resolve interpersonal conflict, but to educate a data-wielding audience on 
-  proper change management and accountability structure.<br></br>
+  proper change management and accountability structure.
+  
   
   I contend that these are not separate concerns. Often, many "hidden" interdepartmental conflicts are exposed to a general audience for 
   the first time during DG scoping sessions. Formalized governance, including never-before-seen roles, budget allocation, responsibility 
   reassignment, quality control, and error rectification are __all__ inherently political tasks. Carrying out successful DG, and the 
-  accompanying stewardship tasks, requires committment at each level of accountability. So let's punch up - for data sake!</p>
+  accompanying stewardship tasks, requires committment at each level of accountability. So let's punch up - for data sake!
+</p>
