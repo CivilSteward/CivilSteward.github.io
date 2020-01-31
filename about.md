@@ -1,6 +1,6 @@
 <h1>About Civil Steward</h1>
 
-<p>Setting out to establish data governance programs within our organization, I could not find meaningful first-hand accounts 
+Setting out to establish data governance programs within our organization, I could not find meaningful first-hand accounts 
   or personal advice to assist my efforts. While academic sources and publications describe the technical requirements and systemic 
   changes required by DG creation, they often gloss past the business case and political concerns surrounding the implementation. Indeed, 
   a popular (and personally highly regarded) author writes in one footnote that if the case for DG must be made to executive leadership, 
@@ -20,4 +20,4 @@
   the first time during DG scoping sessions. Formalized governance, including never-before-seen roles, budget allocation, responsibility 
   reassignment, quality control, and error rectification are __all__ inherently political tasks. Carrying out successful DG, and the 
   accompanying stewardship tasks, requires committment at each level of accountability. So let's punch up - for data sake!
-</p>
+
