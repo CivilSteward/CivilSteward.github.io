@@ -4,7 +4,8 @@
   or personal advice to assist my efforts. While academic sources and publications describe the technical requirements and systemic 
   changes required by DG creation, they often gloss past the business case and political concerns surrounding the implementation. Indeed, 
   a popular (and personally highly regarded) author writes in one footnote that if the case for DG must be made to executive leadership, 
-  then we as data professionals must embark on education campaigns before starting the program.<br></br>
+  then we as data professionals must embark on education campaigns before starting the program.
+  
   
   *What if that leadership is not receptive to education? If your position lacks authority to reverse the flow of instruction? If you are 
   hired as the only steward for a multinational corporation and told "make it right" with limited resources?*<br></br>
