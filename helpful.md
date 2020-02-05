@@ -37,7 +37,7 @@ permalink: /helpful/
     <tr>
       <td><em> Data Governance: How to Design, Deploy and Sustain an Effective Data Governance Program, 2nd Edition </em></td>
       <td> Provides a good foundation for understanding the data governance organization framework and lifecycle. </td>
-      <td><a href="https://www.amazon.com/Data-Governance-Sustain-Effective-Program/dp/012815831X" title="Amazon"> Data Governance </a>
+      <td><a href="https://www.elsevier.com/books/data-governance/ladley/978-0-12-815831-9" title="Amazon"> Data Governance </a>
       </td>
     </tr>
     <tr>
