@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Civil Steward
+title: About
 permalink: /about/
 ---
 
