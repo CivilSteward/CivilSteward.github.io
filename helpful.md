@@ -22,7 +22,7 @@ permalink: /helpful/
   <tbody>
     <tr>
       <td><a href="https://www.usgs.gov/products/data-and-tools/data-management" title="USGS"> USGS Data Management </a></td>
-      <td> Succinct, yet full of helpful topics. The US Geological Survey delivers an explanation of their own data lifecycle and 
+      <td> Succinct, yet full of helpful information. The US Geological Survey delivers an explanation of their own data lifecycle and 
         information management practices. Using real-world examples to illustrate the cost of poor data is invaluable aid when preparing 
         to make a business case for DG. </td>
     </tr>
