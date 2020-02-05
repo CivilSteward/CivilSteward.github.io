@@ -26,6 +26,7 @@ permalink: /helpful/
         information management practices. Using real-world examples to illustrate the cost of poor data is invaluable aid when preparing 
         to make a business case for DG. </td>
     </tr>
+  </tbody>
 </table>
 
 <br>
