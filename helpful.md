@@ -1,4 +1,4 @@
-# Educational \& Otherwise Useful Links
+# Educational & Otherwise Useful Links
 
 <p>Using this space to organize interesting and helpful resources published by others</p>
 
