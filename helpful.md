@@ -1,13 +1,13 @@
-# Educational &amp; Otherwise Useful Links
+<h1>Educational & Otherwise Useful Links</h1>
 
 <p>Using this space to organize interesting and helpful resources published by others</p>
 
-## Internet Resources
+<h2>Internet Resources</h2>
 |Title  |Description  |Link |
 |---    |---          |---  |
 
 
-## Books &amp; Publications
+<h2>Books & Publications</h2>
 <table>
   <thead>
     <tr align="left">
