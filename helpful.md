@@ -47,8 +47,8 @@ permalink: /helpful/
       <td><a href="https://dama.org/content/body-knowledge" title="DAMA International"> DAMA-DMBOK </a></td>
     </tr>
     <tr>
-      <td><em> Data Stewardship: An Actionable Guide to Effective Data Management and Data Governance </em><td>
-      <td> Contains definitions, recommended management processes, and <strong>(very helpfully)</strong> implementation strategies and 
+      <td><em> Data Stewardship: An Actionable Guide to Effective Data Management and Data Governance </em></td>
+      <td> Contains definitions, recommended management processes, and <em>(very helpfully)</em> implementation strategies and 
         advice. </td>
       <td><a href="https://www.elsevier.com/books/data-stewardship/plotkin/978-0-12-410389-4"> Data Stewardship </a></td>
     </tr>
