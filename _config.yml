@@ -2,3 +2,5 @@ title: Civil Steward
 description: Adventures Establishing Data Governance
 sanitize: true
 theme: minima
+header_pages:
+  - about.md
