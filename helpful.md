@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Helpful Links
+title: Learn
 permalink: /helpful/
 ---
 
