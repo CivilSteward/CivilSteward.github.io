@@ -1,3 +1,7 @@
+<head>
+  <title>About Civil Steward</title>
+</head>
+
 <h2>About Civil Steward</h2>
 
 Setting out to establish data governance programs within our organization, I could not find meaningful first-hand accounts 
