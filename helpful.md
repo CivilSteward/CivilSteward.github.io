@@ -4,12 +4,12 @@
 
 <br>
 
-<h2>Internet Resources</h2>
+<h3>Internet Resources</h3>
 |Title  |Description  |Link |
 
 <br>
 
-<h2>Books & Publications</h2>
+<h3>Books & Publications</h3>
 <table>
   <thead>
     <tr align="left">
