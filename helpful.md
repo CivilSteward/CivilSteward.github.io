@@ -3,7 +3,15 @@
 <p>Using this space to organize interesting and helpful resources published by others</p><br>
 
 <h3>Internet Resources</h3>
-|Title  |Description  |Link |
+<table>
+  <thead>
+    <tr align="left">
+      <th>Title</th>
+      <th>Description</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+</table>
 
 <br>
 
