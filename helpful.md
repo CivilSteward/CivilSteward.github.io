@@ -9,12 +9,14 @@
 
 ## Books & Publications
 <table>
-  <tbody>
+  <thead>
     <tr>
-      <td>Title</td>
-      <td>Description</td>
-      <td>Link</td>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Link</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
       <td> *Data Governance: How to Design, Deploy and Sustain an Effective Data Governance Program* </td>
       <td> Provides a good foundation for understanding the data governance organization framework and lifecycle. </td>
