@@ -1,15 +1,13 @@
 <h1>Educational & Otherwise Useful Links</h1>
 
-<p>Using this space to organize interesting and helpful resources published by others</p>
+<p>Using this space to organize interesting and helpful resources published by others</p><br>
 
-<br>
-
-<h3>Internet Resources</h3>
+<h1>Internet Resources</h1>
 |Title  |Description  |Link |
 
 <br>
 
-<h3>Books & Publications</h3>
+<h1>Books & Publications</h1>
 <table>
   <thead>
     <tr align="left">
