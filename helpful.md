@@ -10,7 +10,7 @@
 ## Books & Publications
 <table>
   <thead>
-    <tr>
+    <tr align="left">
       <th>Title</th>
       <th>Description</th>
       <th>Link</th>
@@ -20,7 +20,7 @@
     <tr>
       <td> *Data Governance: How to Design, Deploy and Sustain an Effective Data Governance Program* </td>
       <td> Provides a good foundation for understanding the data governance organization framework and lifecycle. </td>
-      <td align="center"><a href="https://www.amazon.com/Data-Governance-Effective-Kaufmann-Intelligence/dp/0124158293" rel="nofollow")> Data Governance </a></td>
+      <td data-href="https://www.amazon.com/Data-Governance-Effective-Kaufmann-Intelligence/dp/0124158293"> Data Governance </td>
     </tr>
   </tbody>
 </table>
