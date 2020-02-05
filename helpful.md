@@ -4,7 +4,6 @@
 
 <h2>Internet Resources</h2>
 |Title  |Description  |Link |
-|---    |---          |---  |
 
 
 <h2>Books & Publications</h2>
