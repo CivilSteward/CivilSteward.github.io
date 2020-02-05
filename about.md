@@ -1,8 +1,10 @@
-<head>
-  <title>About Civil Steward</title>
-</head>
+---
+layout: page
+title: About Civil Steward
+permalink: /about/
+---
 
-<h2>About Civil Steward</h2>
+<h2>Origin Story</h2>
 
 Setting out to establish data governance programs within our organization, I could not find meaningful first-hand accounts 
   or personal advice to assist my efforts. While academic sources and publications describe the technical requirements and systemic 
