@@ -2,6 +2,8 @@
 
 <p>Using this space to organize interesting and helpful resources published by others</p>
 
+<br>
+
 <h2>Internet Resources</h2>
 |Title  |Description  |Link |
 
