@@ -1,4 +1,4 @@
 <p>
   <em>Adventures Establishing Data Governance</em>
 </p>
-<p style="text-align: right;"><a href="about">About Civil Steward</a></p>
+<div style="text-align: right">[About Civil Steward](#about "How this all started")</div>
