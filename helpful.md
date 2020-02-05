@@ -1,4 +1,12 @@
-<h2>Educational & Otherwise Useful Links</h2>
+---
+layout: page
+title: Useful Links
+permalink: /helpful/
+---
+
+---
+
+<h2>Links to Educational Sources & Tools</h2>
 
 <p>Using this space to organize interesting and helpful resources published by others</p><br>
 
