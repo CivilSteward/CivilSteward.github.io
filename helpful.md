@@ -1,4 +1,4 @@
-# Educational & Otherwise Useful Links
+# Educational &amp; Otherwise Useful Links
 
 <p>Using this space to organize interesting and helpful resources published by others</p>
 
@@ -7,7 +7,7 @@
 |---    |---          |---  |
 
 
-## Books & Publications
+## Books &amp; Publications
 <table>
   <thead>
     <tr align="left">
