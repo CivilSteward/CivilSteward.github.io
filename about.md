@@ -7,7 +7,7 @@ Setting out to establish data governance programs within our organization, I cou
   then we as data professionals must embark on education campaigns before starting the program.<br>
   
   
-  <em>What if that leadership is not receptive to education? If your position lacks authority to reverse the flow of instruction? If you 
+  ><em>What if that leadership is not receptive to education? If your position lacks authority to reverse the flow of instruction? If you 
     are hired as the only steward for a multinational corporation and told "make it right" with limited resources?</em><br>
   
   
