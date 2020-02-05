@@ -37,7 +37,7 @@ permalink: /helpful/
     <tr>
       <td><em> Data Governance: How to Design, Deploy and Sustain an Effective Data Governance Program, 2nd Edition </em></td>
       <td> Provides a good foundation for understanding the data governance organization framework and lifecycle. </td>
-      <td><a href="https://www.elsevier.com/books/data-governance/ladley/978-0-12-815831-9" title="Amazon"> Data Governance </a>
+      <td><a href="https://www.elsevier.com/books/data-governance/ladley/978-0-12-815831-9" title="Elsevier"> Data Governance </a>
       </td>
     </tr>
     <tr>
@@ -50,7 +50,14 @@ permalink: /helpful/
       <td><em> Data Stewardship: An Actionable Guide to Effective Data Management and Data Governance </em></td>
       <td> Contains definitions, recommended management processes, and <em>(very helpfully)</em> implementation strategies and 
         advice. </td>
-      <td><a href="https://www.elsevier.com/books/data-stewardship/plotkin/978-0-12-410389-4"> Data Stewardship </a></td>
+      <td><a href="https://www.elsevier.com/books/data-stewardship/plotkin/978-0-12-410389-4" title="Elsevier"> Data Stewardship </a>
+      </td>
+    </tr>
+    <tr>
+      <td><em> Telling Stories: A Short Path to Writing Better Software Requirements </em></td>
+      <td> While not strictly dealing with data management, Rinzler provides digestable instructions for identifying user requirements, 
+        defining process flows, and communicating with a non-technical audience. </td>
+      <td><em> Out of Print - Try used! </em></td>
     </tr>
   </tbody>
 </table>
