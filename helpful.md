@@ -58,7 +58,7 @@ permalink: /helpful/
         advice. </td>
     </tr>
     <tr>
-      <td><em><a title="Out of Print"> Telling Stories: A Short Path to Writing Better Software Requirements </a></em></td>
+      <td><em> Telling Stories: A Short Path to Writing Better Software Requirements </em></td>
       <td> While not strictly dealing with data management, Rinzler provides digestable instructions for identifying user requirements, 
         defining process flows, and communicating with a non-technical audience. This book is <strong>out of print</strong>, but may 
         still be found used or by PDF at various sources. </td>
