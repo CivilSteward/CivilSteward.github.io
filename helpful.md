@@ -1,4 +1,4 @@
-<h4>Educational & Otherwise Useful Links</h4>
+<h2>Educational & Otherwise Useful Links</h2>
 
 <p>Using this space to organize interesting and helpful resources published by others</p><br>
 
@@ -7,7 +7,7 @@
 
 <br>
 
-<h2>Books & Publications</h2>
+<h3>Books & Publications</h3>
 <table>
   <thead>
     <tr align="left">
