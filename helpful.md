@@ -43,7 +43,7 @@ permalink: /helpful/
     <tr>
       <td><em> DAMA-DMBOK (Data Management Body of Knowledge) </em></td>
       <td> A helpful compendium for many topics: Ethics, Governance, Storage and Analysis, Security, Metadata, Quality, and Business
-        Intelligence. Essential desktop reference.
-      <td><a href="https://dama.org/content/body-knowledge" title="DAMA International"> DAMA-DMBOK
+        Intelligence. Essential desktop reference. </td>
+      <td><a href="https://dama.org/content/body-knowledge" title="DAMA International"> DAMA-DMBOK </a> </td>
   </tbody>
 </table>
