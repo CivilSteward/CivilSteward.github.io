@@ -2,9 +2,12 @@
 
 <p>Using this space to organize interesting and helpful resources published by others</p>
 
+<br>
+
 <h2>Internet Resources</h2>
 |Title  |Description  |Link |
 
+<br>
 
 <h2>Books & Publications</h2>
 <table>
