@@ -1,3 +1,9 @@
+---
+layout: home
+title: Civil Steward
+permalink: /index/
+---
+
 <p>
   <em>Adventures Establishing Data Governance</em>
 </p>
