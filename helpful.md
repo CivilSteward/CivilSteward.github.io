@@ -22,5 +22,3 @@
     </tr>
   </tbody>
 </table>
-
-| *Data Governance: How to Design, Deploy and Sustain an Effective Data Governance Program* | Provides a good foundation for understanding the data governance organization framework and lifecycle. | [Data Governance](https://www.amazon.com/Data-Governance-Effective-Kaufmann-Intelligence/dp/0124158293) |
