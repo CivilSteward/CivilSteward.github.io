@@ -35,9 +35,15 @@ permalink: /helpful/
   </thead>
   <tbody>
     <tr>
-      <td><em> Data Governance: How to Design, Deploy and Sustain an Effective Data Governance Program </em></td>
+      <td><em> Data Governance: How to Design, Deploy and Sustain an Effective Data Governance Program, 2nd Edition </em></td>
       <td> Provides a good foundation for understanding the data governance organization framework and lifecycle. </td>
-      <td><a href="https://www.amazon.com/Data-Governance-Effective-Kaufmann-Intelligence/dp/0124158293" title="Amazon"> Data Governance </a></td>
+      <td><a href="https://www.amazon.com/Data-Governance-Sustain-Effective-Program/dp/012815831X" title="Amazon"> Data Governance </a>
+      </td>
     </tr>
+    <tr>
+      <td><em> DAMA-DMBOK (Data Management Body of Knowledge) </em></td>
+      <td> A helpful compendium for many topics: Ethics, Governance, Storage and Analysis, Security, Metadata, Quality, and Business
+        Intelligence. Essential desktop reference.
+      <td><a href="https://dama.org/content/body-knowledge" title="DAMA International"> DAMA-DMBOK
   </tbody>
 </table>
