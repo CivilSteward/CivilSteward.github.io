@@ -3,5 +3,5 @@ description: Adventures Establishing Data Governance
 sanitize: true
 theme: minima
 header_pages:
-  - about.md
   - helpful.md
+  - about.md
