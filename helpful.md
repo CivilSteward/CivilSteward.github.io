@@ -56,7 +56,6 @@ permalink: /helpful/
         Actionable Guide to Effective Data Management and Data Governance </a></em></td>
       <td> Contains definitions, recommended management processes, and <em>(very helpfully)</em> implementation strategies and 
         advice. </td>
-      </td>
     </tr>
     <tr>
       <td><em><a title="Out of Print"> Telling Stories: A Short Path to Writing Better Software Requirements </a></em></td>
