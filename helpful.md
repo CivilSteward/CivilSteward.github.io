@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Useful Links
+title: Helpful Links
 permalink: /helpful/
 ---
 
 ---
+<br>
 
-<h2>Links to Educational Sources & Tools</h2>
+<h2>Educational Sources & Tools</h2>
 
 <p>Using this space to organize interesting and helpful resources published by others</p><br>
 
