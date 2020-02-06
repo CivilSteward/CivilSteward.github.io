@@ -4,9 +4,6 @@ title: Connect
 permalink: /connect/
 ---
 
----
-<br>
-
 <h2>Professional Organizations</h2>
 
 <p>Using this space to list professional organizations relevant to Data Governance. Expanding the list to include standard-, process-, and 
