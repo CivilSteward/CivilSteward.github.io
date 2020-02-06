@@ -1,6 +1,6 @@
 title: Civil Steward
 description: Adventures Establishing Data Governance
-theme: minima
+remote_theme: hydecorp/hydejack
 
 header_pages:
   - helpful.md
