@@ -28,4 +28,4 @@ Setting out to establish data governance programs within our organization, I cou
   I contend that these are not separate concerns. Often, many "hidden" interdepartmental conflicts are exposed to a general audience for 
   the first time during DG scoping sessions. Formalized governance, including never-before-seen roles, budget allocation, responsibility 
   reassignment, quality control, and error rectification are __all__ inherently political tasks. Carrying out successful DG, and the 
-  accompanying stewardship tasks, requires committment at each level of accountability. So let's punch up - for data sake!<br>
+  accompanying stewardship tasks, requires committment at each level of accountability.<br>
