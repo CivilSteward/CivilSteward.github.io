@@ -3,10 +3,9 @@ layout: page
 title: Learn
 permalink: /helpful/
 ---
-
 <h2>Educational Sources & Tools</h2>
 
-<p>Using this space to organize interesting and helpful resources published by others</p><br>
+<p>Using this space to organize interesting and helpful resources published by others</p>
 
 <h3>Internet Resources</h3>
 <table>
@@ -26,7 +25,6 @@ permalink: /helpful/
   </tbody>
 </table>
 
-<br>
 
 <h3>Books & Publications</h3>
 <table>
