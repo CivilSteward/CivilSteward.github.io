@@ -1,9 +1,18 @@
-title: Civil Steward
-description: Adventures Establishing Data Governance
-
 remote_theme: CivilSteward/hydejacked
 
+keywords: [data governance, data stewardship, stewardship, data steward, steward]
+
+lang: en
+url: https://civilsteward.github.io
+baseurl: ''
+
+title: Civil Steward
+description: Establishing Data Governance
+
 sanitize: true
+
+font_heading: Yantamanav, Arial, sans-serif
+google_fonts: Yantamanav:400
 
 plugins:
   - jekyll-feed
@@ -13,4 +22,106 @@ header_pages:
   - about.md
   - connect.md
   - learn.md
-    
+
+menu:
+  - title:             Learn
+    url:               /learn/
+  - title:             Connect
+    url:               /connect/
+  - title:             About
+    url:               /about/
+
+permalink:             /:categories/:year-:month-:day-:title/
+
+paginate:              10
+paginate_path:         /page-:num/
+
+accent_image:          /assets/img/sidebar-bg.jpg
+accent_color:          rgb(79,177,186)
+
+theme_color:           rgb(25,55,71)
+
+defaults:
+  - scope:
+      path:            hyde
+    values:
+      accent_color:    rgb(38,139,210)
+      accent_image:
+        background:    rgb(32,32,32)
+        overlay:       false
+
+  # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
+  # but we want them to be `WebPage`s:
+  - scope:
+      type:            projects
+    values:
+      seo:
+        type:          WebPage
+  - scope:
+      type:            featured_categories
+    values:
+      seo:
+        type:          WebPage
+  - scope:
+      type:            featured_tags
+    values:
+      seo:
+        type:          WebPage
+
+# Collections
+# ========================================================================================
+
+collections:
+  featured_categories:
+    permalink:         /:name/
+    output:            true
+
+  featured_tags:
+    permalink:         /tag-:name/
+    output:            true
+
+  projects:
+    permalink:         /projects/:path/
+    output:            true
+
+
+# File inclusion/exclusion
+# ========================================================================================
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - package.json
+  - package-lock.json
+  - webpack.config.js
+  - "*.gemspec"
+  - _js
+  - _plugins
+  - .sass-cache
+include:
+  - LICENSE.md
+  - .well-known
+
+
+# Plugins
+# ========================================================================================
+
+plugins:
+  - jekyll-default-layout
+  - jekyll-feed
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-redirect-from
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+  - jekyll-replace-img
+
+hydejack:
+    no_mark_external:    true
+    no_page_style:       true
+    no_break_layout:     true
