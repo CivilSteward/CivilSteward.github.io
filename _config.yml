@@ -8,8 +8,9 @@ sanitize: true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  
+
 header_pages:
-  - learn.md
-  - connect.md
   - about.md
+  - connect.md
+  - learn.md
+    
