@@ -1,6 +1,6 @@
 title: Civil Steward
 description: Adventures Establishing Data Governance
-remote_theme: civilsteward/minima
+theme: minima
 
 header_pages:
   - helpful.md
