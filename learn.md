@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learn
-permalink: /helpful/
+permalink: /learn/
 ---
 <h2>Educational Sources & Tools</h2>
 
