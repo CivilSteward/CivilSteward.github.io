@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+---
+<br>
 <h2>Origin Story</h2>
 
 Setting out to establish data governance programs within our organization, I could not find meaningful first-hand accounts 
