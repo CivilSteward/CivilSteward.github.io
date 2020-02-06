@@ -1,6 +1,11 @@
 title: Civil Steward
 description: Adventures Establishing Data Governance
+
 remote_theme: CivilSteward/hydejack
+theme_color: rgb(128,0,106)
+font: Source Sans Pro, Arial, sans-serif
+font_heading: Source Sans pro, Arial, sans-serif
+google_fonts: Source+Sans+Pro:300
 
 header_pages:
   - helpful.md
