@@ -1,9 +1,10 @@
 title: Civil Steward
 description: Adventures Establishing Data Governance
 sanitize: true
-theme: civilsteward/minima
+theme: minima
 header_pages:
   - helpful.md
+  - connect.md
   - about.md
 show_excerpts: true
 plugins:
