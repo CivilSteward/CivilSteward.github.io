@@ -4,7 +4,6 @@ description: Adventures Establishing Data Governance
 remote_theme: CivilSteward/telephasic
 
 sanitize: true
-show_excerpts: true
 
 plugins:
   - jekyll-feed
