@@ -14,3 +14,10 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   
+menu:
+  - title: Learn
+    url: /helpful/
+  - title: Connect
+    url: /connect/
+  - title: About
+    url: /about/
