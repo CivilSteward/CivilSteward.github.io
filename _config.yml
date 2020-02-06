@@ -1,12 +1,15 @@
 title: Civil Steward
 description: Adventures Establishing Data Governance
-sanitize: true
 theme: minima
+
 header_pages:
   - helpful.md
   - connect.md
   - about.md
+
+sanitize: true
 show_excerpts: true
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
