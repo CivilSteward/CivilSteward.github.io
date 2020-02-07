@@ -3,8 +3,7 @@ remote_theme: CivilSteward/hydejacked
 keywords: [data governance, data stewardship, stewardship, data steward, steward]
 
 lang: en
-url: https://civilsteward.github.io
-baseurl: ''
+url: https://CivilSteward.github.io
 
 title: Civil Steward
 description: Establishing Data Governance
@@ -13,10 +12,6 @@ sanitize: true
 
 font_heading: Yantamanav, Arial, sans-serif
 google_fonts: Yantamanav:400
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
 
 header_pages:
   - about.md
@@ -123,5 +118,5 @@ plugins:
 
 hydejack:
     no_mark_external:    true
-    no_page_style:       true
+    no_page_style:       false
     no_break_layout:     true
