@@ -13,11 +13,6 @@ sanitize: true
 font_heading: Yantamanav, Arial, sans-serif
 google_fonts: Yantamanav:400
 
-header_pages:
-  - about.md
-  - connect.md
-  - learn.md
-
 menu:
   - title:             Learn
     url:               /learn/
