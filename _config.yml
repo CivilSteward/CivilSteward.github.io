@@ -21,53 +21,6 @@ menu:
   - title:             About
     url:               /about/
 
-permalink:             /:categories/:year-:month-:day-:title/
-
-paginate:              10
-paginate_path:         /page-:num/
-
-accent_image:          /assets/img/sidebar-bg.jpg
-accent_color:          rgb(79,177,186)
-
-theme_color:           rgb(25,55,71)
-
-# Collections
-# ========================================================================================
-
-collections:
-  featured_categories:
-    permalink:         /:name/
-    output:            true
-
-  featured_tags:
-    permalink:         /tag-:name/
-    output:            true
-
-  projects:
-    permalink:         /projects/:path/
-    output:            true
-
-
-# File inclusion/exclusion
-# ========================================================================================
-
-exclude:
-  - vendor
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - package.json
-  - package-lock.json
-  - webpack.config.js
-  - "*.gemspec"
-  - _js
-  - _plugins
-  - .sass-cache
-include:
-  - LICENSE.md
-  - .well-known
-
-
 # Plugins
 # ========================================================================================
 
@@ -86,5 +39,3 @@ plugins:
 
 hydejack:
     no_mark_external:    true
-    no_page_style:       false
-    no_break_layout:     true
