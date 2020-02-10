@@ -3,7 +3,6 @@ layout: page
 title: Learn
 permalink: /learn/
 ---
-
 <h2>Educational Sources & Tools</h2>
 
 <p>Using this space to organize interesting and helpful resources published by others</p>
